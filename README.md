@@ -34,6 +34,8 @@
 
 ## 6. Create Subscriptions in the Topic (in second ServiceBus)
 
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/f364c686-9b75-4ea8-8e29-f7d81664ea00)
+
 
 
 ## 7. 
