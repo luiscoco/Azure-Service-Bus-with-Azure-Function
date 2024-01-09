@@ -14,6 +14,9 @@
 
 ## 3. Create a Queue
 
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/87657b4b-4dfc-4e38-b6dd-4dc36b1d8879)
+
+
 
 
 ## 4. 
