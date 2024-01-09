@@ -74,6 +74,17 @@ We click on the third subscription and we create a new Filter rule inside
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/161eb916-5244-40e9-bed3-762828bdca82)
 
+## 6.7. Create fourth Subscription
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/69acaf3a-b144-498e-80ec-70179b6993a3)
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/6f12358d-3b02-42a0-8da2-1c01698ef954)
+
+
+## 6.8. Create filter inside the fourth Subscription
+
+
+
 ## 7. 
 
 
