@@ -20,7 +20,7 @@
 
 ## 4. Create a ServiceBus
 
-
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/69e04420-1c60-4a8c-b0fa-1d98b7d9c0ec)
 
 ## 5. 
 
