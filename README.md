@@ -34,17 +34,34 @@
 
 ## 6. Create Subscriptions in the Topic (in second ServiceBus)
 
+## 6.1. Create first Subscription
+
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/f364c686-9b75-4ea8-8e29-f7d81664ea00)
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/c1ca7db8-1de6-4684-9414-bb62bd9a8f2f)
 
-### 6.1. Create filter inside the Subscription
+### 6.2. Create filter inside the first Subscription
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/e3956b8c-1833-4d53-9042-82362d4723d5)
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/bdf2fa8f-9e88-4731-9531-4656532fb1da)
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/6bb81662-d4f2-4efc-84e4-bfc81a43ff7d)
+
+## 6.3. Create second Subscription
+
+
+
+### 6.4. Create filter inside the second Subscription
+
+
+
+## 6.5. Create third Subscription
+
+
+
+### 6.6. Create filter inside the third Subscription
+
 
 
 ## 7. 
