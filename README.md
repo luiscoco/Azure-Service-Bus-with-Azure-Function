@@ -90,6 +90,8 @@ We click on the third subscription and we create a new Filter rule inside
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/c4ba985d-6f59-49fa-80c5-070b96e272e8)
 
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/932561ea-2e90-4c3a-80aa-3c542b4a8de3)
+
 
 
 
