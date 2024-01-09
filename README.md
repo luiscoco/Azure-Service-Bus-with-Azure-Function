@@ -104,3 +104,27 @@ We input the new Azure Function parameters
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/60f8e962-efed-4993-8dc2-73b6e57d5662)
 
+## 8. 
+
+```json
+{
+   "name": "John Smith",
+   "Item": {
+
+
+           },
+    "price": "23.95",
+    "shipTo": {
+            "name": "Jane Smith",
+            "address": "123 Maple Street",
+            "city": "Liverpool",
+            "postcode": "12345",
+    },
+    "billTo": {
+            "name": "John Smith",
+            "address": "123 Maple Street",
+            "city": "Liverpool",
+            "postcode": "12345",
+    },
+}
+```
