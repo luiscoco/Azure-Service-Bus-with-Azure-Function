@@ -18,9 +18,7 @@
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/debcb045-72b1-446d-b24c-6ce4baf7bf60)
 
-
-
-## 4. 
+## 4. Create a ServiceBus
 
 
 
