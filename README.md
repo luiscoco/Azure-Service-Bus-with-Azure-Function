@@ -1,5 +1,7 @@
 # Azure Service Bus with Azure Function
 
+See this github repo: https://www.youtube.com/watch?v=lnxFbGqtnqs
+
 ## 1. Create a ResourceGroup
 
 
