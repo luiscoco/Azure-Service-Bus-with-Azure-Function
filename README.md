@@ -32,7 +32,7 @@
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/ff1da3e9-9985-4646-bf25-2e609b659551)
 
-## 6. 
+## 6. Create Subscriptions in the Topic (in second ServiceBus)
 
 
 
