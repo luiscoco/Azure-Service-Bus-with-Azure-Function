@@ -108,23 +108,24 @@ We input the new Azure Function parameters
 
 ```json
 {
-   "name": "John Smith",
-   "Item": {
-
-
-           },
+    "name": "John Smith",
+    "Item": {
+        "sku": "12345",
+        "quantity": "10",
+        "city": "Liverpool"
+    },
     "price": "23.95",
     "shipTo": {
-            "name": "Jane Smith",
-            "address": "123 Maple Street",
-            "city": "Liverpool",
-            "postcode": "12345",
+        "name": "Jane Smith",
+        "address": "123 Maple Street",
+        "city": "Liverpool",
+        "postcode": "12345"
     },
     "billTo": {
-            "name": "John Smith",
-            "address": "123 Maple Street",
-            "city": "Liverpool",
-            "postcode": "12345",
-    },
+        "name": "John Smith",
+        "address": "123 Maple Street",
+        "city": "Liverpool",
+        "postcode": "12345"
+    }
 }
 ```
