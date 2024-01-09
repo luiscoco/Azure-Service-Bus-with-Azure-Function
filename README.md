@@ -80,12 +80,16 @@ We click on the third subscription and we create a new Filter rule inside
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/6f12358d-3b02-42a0-8da2-1c01698ef954)
 
-
 ## 6.8. Create filter inside the fourth Subscription
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/6beef556-f538-4e39-9328-a3ae09d5c87e)
 
-## 7. 
+## 7. Create Azure Function
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/c6b87296-e14b-41c4-b312-8b37481ddc0b)
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/c4ba985d-6f59-49fa-80c5-070b96e272e8)
+
 
 
 
