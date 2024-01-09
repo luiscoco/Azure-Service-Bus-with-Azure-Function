@@ -83,7 +83,7 @@ We click on the third subscription and we create a new Filter rule inside
 
 ## 6.8. Create filter inside the fourth Subscription
 
-
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/6beef556-f538-4e39-9328-a3ae09d5c87e)
 
 ## 7. 
 
