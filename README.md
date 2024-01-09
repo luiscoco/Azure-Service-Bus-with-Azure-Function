@@ -28,6 +28,9 @@
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/6af393a6-3e27-451b-931b-5d6f01c03202)
 
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/360c4c2b-ddf0-483a-9ae5-7f3de3765175)
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/ff1da3e9-9985-4646-bf25-2e609b659551)
 
 ## 6. 
 
