@@ -34,7 +34,7 @@
 
 ## 6. Create Subscriptions in the Topic (in second ServiceBus)
 
-## 6.1. Create first Subscription
+### 6.1. Create first Subscription
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/f364c686-9b75-4ea8-8e29-f7d81664ea00)
 
@@ -48,7 +48,7 @@
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/6bb81662-d4f2-4efc-84e4-bfc81a43ff7d)
 
-## 6.3. Create second Subscription
+### 6.3. Create second Subscription
 
 
 
@@ -56,7 +56,7 @@
 
 
 
-## 6.5. Create third Subscription
+### 6.5. Create third Subscription
 
 
 
