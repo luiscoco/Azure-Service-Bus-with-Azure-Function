@@ -70,7 +70,9 @@ We click on the third subscription and we create a new Filter rule inside
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/7991da1e-1129-4b1d-be7f-72d3a56305b9)
 
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/c7b0e089-c6a0-4ece-8e4f-3ac3f71c22fe)
 
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/161eb916-5244-40e9-bed3-762828bdca82)
 
 ## 7. 
 
