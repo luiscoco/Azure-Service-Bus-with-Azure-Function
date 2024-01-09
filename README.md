@@ -50,7 +50,7 @@
 
 ### 6.3. Create second Subscription
 
-
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/1e14493b-d190-415a-b629-eee6be97b959)
 
 ### 6.4. Create filter inside the second Subscription
 
