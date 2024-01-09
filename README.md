@@ -54,7 +54,7 @@
 
 ### 6.4. Create filter inside the second Subscription
 
-
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/14bed329-eb59-4822-ab6d-fdfee6b8e1bb)
 
 ### 6.5. Create third Subscription
 
