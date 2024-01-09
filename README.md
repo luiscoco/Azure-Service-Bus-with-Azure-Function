@@ -100,4 +100,5 @@ We input the new Azure Function parameters
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/31a9fb59-cc9f-418a-a1cd-59fe05a8b6a7)
 
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/60f8e962-efed-4993-8dc2-73b6e57d5662)
 
