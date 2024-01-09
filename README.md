@@ -40,6 +40,8 @@
 
 ### 6.1. Create filter inside the Subscription
 
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-Azure-Function/assets/32194879/e3956b8c-1833-4d53-9042-82362d4723d5)
+
 
 
 ## 7. 
